@@ -20,8 +20,10 @@
     "eslint": "^8.2.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-vue": "^8.0.3",
+    "laravel-echo": "^2.0.2",
     "postcss": "^8.3.11",
     "prettier": "2.4.1",
+    "pusher-js": "^8.4.0",
     "tailwindcss": "^2.2.19",
     "vite": "^2.6.4"
   }
